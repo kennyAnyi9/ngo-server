@@ -1,0 +1,13 @@
+POST http://localhost:5000/api/projects
+Content-Type: application/json
+
+{
+  "title":"Education for All",
+  "description":"Building schools and providing quality education to underprivileged children.",
+  "imageUrl":"https://newsghana.com.gh/wp-content/uploads/2022/03/Agriculture.jpg",
+  "category":"Education",
+  "isFeatured":"true"
+}
+
+###
+DELETE http://
